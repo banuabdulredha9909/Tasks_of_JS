@@ -1,0 +1,7 @@
+.content
+{
+    padding: 30px 40%;
+}
+.content:nth-child(1):hover{
+opacity: 0.5;
+}
