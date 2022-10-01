@@ -1,0 +1,20 @@
+.content img
+{
+    width:50%;
+    filter: grayscale(1);
+    height:50%;
+    position: absolute;
+    top: 25%;
+    transition:0.5s ease;
+    left: 24%;
+    
+
+    
+}
+.content img:hover
+{
+filter: brightness(50%);
+transform: scale(0.8);
+transition: 0.5s ease;
+border-radius:50%
+}
